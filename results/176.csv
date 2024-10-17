@@ -1,0 +1,2 @@
+num_layers,layer_size,activation,train_loss,val_loss,test_loss,stop_epoch
+8,16,relu,2.999100387096405,2.106748506426811,5.176431655883789,863

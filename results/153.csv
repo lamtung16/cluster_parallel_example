@@ -1,0 +1,2 @@
+num_layers,layer_size,activation,train_loss,val_loss,test_loss,stop_epoch
+7,16,tanh,5.292589412795173,1.1586184948682785,6.121481418609619,1282
